@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/EjadPackage/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/EjadPackage/Data/**" />
+		<Compile Remove="$(PkgPath)/EjadPackage/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/EjadPackage/Schemas\**" />
+		<Compile Remove="$(PkgPath)/EjadPackage/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/EjadPackage/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/EjadPackage/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/EjadPackage/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/EjadPackage/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/EjadPackage/Resources/**" />
+		<None Remove="$(PkgPath)/EjadPackage/Assemblies/**" />
+		<None Remove="$(PkgPath)/EjadPackage/Data/**" />
+		<None Remove="$(PkgPath)/EjadPackage/SqlScripts/**" />
+		<None Remove="$(PkgPath)/EjadPackage/Schemas/**" />
+		<None Remove="$(PkgPath)/EjadPackage/Resources/**" />
+  </ItemGroup>
+</Project>
