@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Average price output page" />
+			<Item Name="LocalizableStrings.Input_785sy8t_label.Value" Value="SQL test (for debug purpose)" />
+			<Item Name="LocalizableStrings.NumberInput_ligceij_label.Value" Value="Average price, USD" />
+		</Items>
+	</Group>
+</Resources>

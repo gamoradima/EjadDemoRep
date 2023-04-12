@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.9acb6a0e-3a11-a09b-93b0-5b458da307fc.Caption" Value="Show elements: Secret value" />
+			<Item Name="AddonConfig.Rules.dad6c354-9fe7-38a8-fbad-3be5ca4bb364.Caption" Value="Hide elements: Secret value" />
+			<Item Name="Caption" Value="Realty form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

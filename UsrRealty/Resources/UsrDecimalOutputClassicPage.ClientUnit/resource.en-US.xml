@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Decimal Output Classic Page" />
+			<Item Name="Parameters.44214575-f0f2-4cc9-801e-dff532f0a8c1.Caption" Value="Average Price, USD" />
+			<Item Name="Parameters.85051978-d3c2-46cb-8c70-fab7c3b9cbe3.Caption" Value="SQL text" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.c4841740-ff8c-406f-8626-1c78f78608bf.Caption" Value="Close" />
+			<Item Name="Parameters.c49bd85e-159a-49ee-b10a-3c3bca63d7d5.Value.f073e66a-36ec-47d7-9c6a-e5952dbf05a3.Caption" Value="Save" />
+		</Items>
+	</Group>
+</Resources>

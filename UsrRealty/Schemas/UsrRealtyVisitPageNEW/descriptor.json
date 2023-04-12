@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f943bd3-3a5b-4ce2-90d2-1490ab8e6803",
+    "Name": "UsrRealtyVisitPageNEW",
+    "ModifiedOnUtc": "\/Date(1680596949000)\/",
+    "Parent": {
+      "UId": "27e1b215-163a-4b82-b0a6-9872a8dde6e4",
+      "Name": "PageWithTopAreaAndTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty visit form page NEW",
+    "DependsOn": []
+  }
+}

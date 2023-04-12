@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Realty form page" />
+			<Item Name="LocalizableStrings.addRecord_4pchx09_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_741g378_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_h88r4rv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_l9upo2l_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_nbi7nmy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rtodwcg_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_4m8z6xb_caption.Value" Value="Calc Avg Price" />
+			<Item Name="LocalizableStrings.Button_bbzqcci_caption.Value" Value="Add visits" />
+			<Item Name="LocalizableStrings.Button_jjzmled_caption.Value" Value="Run web service!" />
+			<Item Name="LocalizableStrings.ComboBox_syv3hk1_label.Value" Value="Manager City" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ihh8db8_title.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_31i3rpj_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_78cqujg_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_x1me2cz_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_uh3998p_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_sxeszre_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_wnb2eqi_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.NumberInput_yoqrooj_placeholder.Value" Value="your price should be here!" />
+			<Item Name="LocalizableStrings.NumberInput_yoqrooj_tooltip.Value" Value="example of a tooltip" />
+			<Item Name="LocalizableStrings.RealtyManagerType_label.Value" Value="Manager Contact Type" />
+			<Item Name="LocalizableStrings.TabContainer_97ufg8s_caption.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.TabContainer_ee93nm9_caption.Value" Value="Manager Secret" />
+			<Item Name="LocalizableStrings.TabContainer_evnphjb_caption.Value" Value="Tab 2" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "05722c96-b77b-47f2-8812-ff77b15a7f00",
+    "Name": "UsrCalcRealtyCommissionProcess",
+    "ModifiedOnUtc": "\/Date(1680683379000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Calculate Realty Commission Process",
+    "DependsOn": []
+  }
+}
